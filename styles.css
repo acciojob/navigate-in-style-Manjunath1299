@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
 ul.navbar{
-	background-color:#D3D3D3;
-	padding:10px;
-	list-style:none
+	background-color: #D3D3D3;
+    padding: 10px;
+    display: flex; /* Use flexbox to align items horizontally */
+    list-style: none; 
 }
 ul.navbar li{
 	display:inline;
-	margin-left:1rem
+	margin-right:1rem
 }
