@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-ul.navbar{
+ul.nav-bar{
 	background-color:#D3D3D3;
 	padding:10px;
 	list-style:none
 }
-ul.navbar li{
+ul.nav-bar li{
 	display:inline;
 	margin-right:1rem
 }
